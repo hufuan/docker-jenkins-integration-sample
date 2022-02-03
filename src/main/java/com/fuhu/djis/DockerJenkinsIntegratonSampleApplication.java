@@ -8,6 +8,7 @@ public class DockerJenkinsIntegratonSampleApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DockerJenkinsIntegratonSampleApplication.class, args);
+        System.out.println("hello 2022!");
     }
 
 }
